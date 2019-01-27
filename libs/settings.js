@@ -582,7 +582,7 @@ settings.panels = {
                         "highlight": "", // danger = red; success = green;
 			"type": "Website",
 			"description": "Guides Site",
-			"web_link": "http://bitcoinzguiding.ovh/",
+			"web_link": "",
 			"links": {
      			    "link1": ["GitHub", "https://github.com/bitcoinz-sites/bitcoinz-guides"]
                           }
